@@ -1,0 +1,12 @@
+.git
+**/node_modules
+**/.venv
+**/.next
+**/__pycache__
+**/.pytest_cache
+**/.env
+**/.env.*
+**/*.log
+work
+outputs
+.openai

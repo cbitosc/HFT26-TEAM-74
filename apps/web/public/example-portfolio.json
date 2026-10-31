@@ -1,0 +1,11 @@
+{
+  "name": "Alex Morgan",
+  "domain": "Backend",
+  "projects": [{
+    "name": "Campus Connect",
+    "description": "A Python service that tracks campus events, registrations and activity summaries.",
+    "tech_stack": ["Python", "FastAPI"]
+  }],
+  "skills": ["Python", "FastAPI", "REST APIs"],
+  "dsa_topics": ["arrays", "hash_maps"]
+}
